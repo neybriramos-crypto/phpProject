@@ -25,7 +25,3 @@ La aplicación permite a los usuarios autenticarse y acceder a un panel de contr
 1. Configurar el servidor web y colocar el proyecto en el directorio adecuado.
 2. Actualizar `db.php` con los datos de conexión a la base de datos.
 3. Abrir `login.php` en el navegador para iniciar sesión.
-
-## Notas
-
-Asegúrate de proteger el proyecto antes de usarlo en producción, añadiendo medidas de seguridad como validación de entradas, hashing de contraseñas y control de sesiones.
